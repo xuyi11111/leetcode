@@ -1,0 +1,6 @@
+vector:
+	add vector:
+		vector<int> temp
+
+	add element
+		temp.push_back(int x) add element at end
