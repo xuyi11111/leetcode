@@ -1,9 +1,10 @@
-git code:
+ï»¿git code:
 change cd source first;
 find the version and remember:
 open cmd and code like:git reset --hard aa8ecad
 then it will be good,but remember it can not change again
-c++£º
+
+c++
 vector:
 	add vector:
 		vector<int> temp
